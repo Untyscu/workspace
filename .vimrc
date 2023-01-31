@@ -77,3 +77,6 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 " Type jj to exit insert mode quickly.
 inoremap jj <Esc>
+
+" Set the color scheme.
+colorscheme molokai
